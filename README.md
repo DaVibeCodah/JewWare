@@ -38,4 +38,4 @@ pip install PyQt6 Pillow mss requests
 
 ## 🛡️ License
 
-This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
+This project is dedicated to the public domain under the Creative Commons Zero v1.0 Universal (CC0 1.0) License.
